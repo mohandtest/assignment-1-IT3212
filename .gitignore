@@ -1,2 +1,5 @@
-smoking_driking_dataset_Ver01.csv
+*.csv
+data/
+.venv/
 .ipynb_checkpoints/
+__pycache__/
