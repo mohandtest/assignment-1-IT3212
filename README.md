@@ -10,7 +10,7 @@ Datasettet er ikke inkludert i repositoryet på grunn av filstørrelsen. Last de
 
 
 ## Oppsett:
-1. lag en mappe som heter data:`
+1. lag en mappe som heter data
 2. unzip datasettet smoking_drinking.zip og legg den inn i data
 3. for å sette å pythonmiljøet:
 
@@ -28,7 +28,7 @@ velg: .venv/bin/python som Jupyter-kernel
 
 For vs-code trenger du nok python og Jupyter extensions
 
-så kan du kjøre denne notebooks/data-driven.ipynb
+så kan du kjøre src/data-driven.ipynb
 
 
 ## Prosjektstruktur
