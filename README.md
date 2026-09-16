@@ -8,6 +8,7 @@ Hoveddatasettet som brukes i oppgaven er:
 
 Datasettet er ikke inkludert i repositoryet på grunn av filstørrelsen. Last det ned fra Canvas og legg det i `data/`-mappen.
 
+Enkleste er nok å laste ned smoking-drinking.zip og og ipynb filen og kjøre i https://jupyter.ntnu.no/ ellers:
 
 ## Oppsett:
 1. lag en mappe som heter data
