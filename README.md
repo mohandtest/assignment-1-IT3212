@@ -31,6 +31,22 @@ For vs-code trenger du nok python og Jupyter extensions
 
 så kan du kjøre src/data-driven.ipynb
 
+## Task 2: manglende verdier
+
+Last ned `spanish-cities-energy-consumption.zip` fra kursmaterialet og pakk ut
+`energy_dataset.csv` til `data/energy_dataset.csv`. Værfilen i samme arkiv trengs ikke.
+CSV-filer og `data/` er allerede utelatt fra Git.
+
+Kjør `src/data-driven.ipynb` med `src/` som arbeidsmappe og prosjektets Python-miljø
+som kernel. For å kjøre hele notebooken trengs også smoking/drinking-filen beskrevet
+over. Energicellene under «Missing values in a second dataset» kan kjøres separat
+ovenfra og ned, og trenger bare `energy_dataset.csv`.
+
+Task 2 viser manglende verdier per kolonne, fjerner to helt tomme kolonner og
+interpolerer de resterende 401 manglende verdiene. Begrunnelse, begrensninger og
+før/etter-tabell står i notebooken. Eksemplet bruker egne `energy_`-variabler og
+endrer ikke hoveddatasettet.
+
 
 ## Prosjektstruktur
 
